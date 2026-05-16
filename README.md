@@ -40,7 +40,7 @@ An e-commerce company is losing potential revenue because users are dropping off
 
 \- PostgreSQL — business queries and segmentation
 
-\- Power BI — dashboard (in progress)
+\- Power BI — 3-page interactive dashboard (Funnel Overview, Brand Conversion, Price Analysis)
 
 
 
